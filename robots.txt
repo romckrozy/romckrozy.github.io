@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://romckrozy.github.io/sitemap
+Sitemap: https://romckrozy.github.io/app/sitemap
+Sitemap: https://romckrozy.github.io/assets/sitemap
+Sitemap: https://romckrozy.github.io/css/sitemap
+Sitemap: https://romckrozy.github.io/includes/sitemap
+Sitemap: https://romckrozy.github.io/item/sitemap
+Sitemap: https://romckrozy.github.io/src/sitemap
